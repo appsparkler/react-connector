@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "./dist/react-connector.js",
+      "maxSize": "1 kB"
+    }
+  ]
+}
